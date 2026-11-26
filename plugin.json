@@ -1,0 +1,13 @@
+{
+  "name": "zero-touch-design",
+  "displayName": "Zero-Touch Design",
+  "version": "1.0.0",
+  "description": "Enforces Gate 0 existence and media-budget audits, a 6-step product design SOP with fresh-eyes artifact critique, and a customizable 80-15-5 Cool Stone & Royal Indigo design system.",
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/stkang9409/zero-touch-design",
+  "suggestedPrompts": [
+    "Run Gate 0 and propose 2-3 structural layout alternatives before building this screen or landing section",
+    "Audit this rendered screen or ad creative with fresh eyes against Gate 0, 14 design principles, and WCAG AA",
+    "Bootstrap or customize the 80-15-5 design system tokens and automated design gate tests for this project"
+  ]
+}

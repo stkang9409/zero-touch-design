@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "preset": "zero-touch-design/cool-stone-royal-indigo",
+    "theme": "Cool Stone & Royal Indigo",
+    "ratio": "80-15-5",
+    "customized": false
+  },
+  "color": {
+    "rgb": {
+      "canvas": "248 250 252",
+      "mist": "238 242 246",
+      "raised": "255 255 255",
+      "ink": "21 27 38",
+      "ink-card": "30 38 54",
+      "ink-accent": "147 180 255",
+      "fg": "21 27 38",
+      "fg-2": "51 65 85",
+      "fg-3": "71 85 105",
+      "fg-4": "82 96 117",
+      "brand-50": "21 27 38",
+      "brand-100": "235 240 255",
+      "brand-200": "29 62 184",
+      "brand-300": "29 62 184",
+      "brand-400": "37 78 219",
+      "brand-500": "37 78 219",
+      "brand-600": "30 64 175",
+      "brand-700": "29 62 184",
+      "brand-950": "255 255 255",
+      "info-100": "224 242 254",
+      "info-200": "3 105 161",
+      "info-300": "3 105 161",
+      "info-400": "2 132 199",
+      "info-500": "2 132 199",
+      "warn-200": "146 64 14",
+      "warn-300": "180 83 9",
+      "warn-500": "217 119 6",
+      "danger-200": "159 18 57",
+      "danger-300": "190 18 60",
+      "danger-400": "190 18 60",
+      "danger-500": "220 38 38",
+      "danger-600": "190 18 60"
+    },
+    "hex": {
+      "canvas": "#F8FAFC",
+      "mist": "#EEF2F6",
+      "raised": "#FFFFFF",
+      "surface": "#F1F5F9",
+      "surface2": "#E2E8F0",
+      "ink": "#151B26",
+      "inkCard": "#1E2636",
+      "inkAccent": "#93B4FF",
+      "brand": "#254EDB",
+      "brandDeep": "#1E40AF",
+      "brandSoft": "#EBF0FF",
+      "brandSoftBorder": "#C7D7FE",
+      "brandInk": "#1D3EB8",
+      "fg": "#151B26",
+      "fg2": "#334155",
+      "fg3": "#475569",
+      "fg4": "#526075",
+      "line": "#E2E8F0",
+      "lineSoft": "#F1F5F9",
+      "lineStrong": "#CBD5E1",
+      "infoSoft": "#E0F2FE",
+      "infoInk": "#0369A1",
+      "warnSoft": "#FEF3C7",
+      "warnInk": "#B45309",
+      "dangerSoft": "#FFE4E6",
+      "dangerInk": "#BE123C"
+    }
+  },
+  "typography": {
+    "fontSans": "Pretendard, -apple-system, BlinkMacSystemFont, \"Apple SD Gothic Neo\", \"Noto Sans KR\", sans-serif",
+    "fontDisplay": "\"Space Grotesk\", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif",
+    "fontSansArray": [
+      "Pretendard",
+      "-apple-system",
+      "BlinkMacSystemFont",
+      "system-ui",
+      "Apple SD Gothic Neo",
+      "Noto Sans KR",
+      "sans-serif"
+    ],
+    "fontDisplayArray": [
+      "\"Space Grotesk\"",
+      "Pretendard",
+      "-apple-system",
+      "BlinkMacSystemFont",
+      "system-ui",
+      "sans-serif"
+    ],
+    "scale": {
+      "num-lg": ["28px", { "lineHeight": "1.1", "fontWeight": "700" }],
+      "display": ["26px", { "lineHeight": "1.3", "letterSpacing": "-0.025em", "fontWeight": "700" }],
+      "title": ["20px", { "lineHeight": "1.35", "letterSpacing": "-0.015em", "fontWeight": "700" }],
+      "head": ["17px", { "lineHeight": "1.4", "fontWeight": "600" }],
+      "body": ["15px", { "lineHeight": "1.55" }],
+      "meta": ["13px", { "lineHeight": "1.45" }],
+      "cap": ["12px", { "lineHeight": "1.4" }],
+      "2xs": "11px",
+      "3xs": "10px"
+    }
+  },
+  "radius": {
+    "hero": "28px",
+    "card": "24px",
+    "control": "16px",
+    "field": "12px",
+    "chip": "8px",
+    "pill": "9999px"
+  },
+  "shadow": {
+    "card": "0 4px 24px -8px rgb(15 23 42 / 0.06)",
+    "cta": "0 12px 28px -10px rgb(37 78 219 / 0.42)",
+    "heroAction": "0 8px 30px -12px rgb(15 23 42 / 0.1), 0 0 0 1px rgb(226 232 240 / 0.8)",
+    "heroDark": "0 12px 32px -12px rgb(21 27 38 / 0.28)"
+  },
+  "motion": {
+    "pressMs": 150,
+    "switchMs": 150,
+    "toastMs": 150,
+    "sheetMs": 200,
+    "stickyMs": 200,
+    "onboardingInMs": 220,
+    "onboardingOutMs": 300
+  },
+  "icon": {
+    "strokeWidth": 1.75,
+    "sizes": {
+      "inline": 16,
+      "row": 20,
+      "dock": 24
+    }
+  },
+  "touchTargetMinPx": 44
+}
